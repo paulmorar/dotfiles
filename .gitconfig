@@ -1,0 +1,7 @@
+[user]
+	name = Paul Morar
+	email = paulcornelmorar@gmail.com
+[push]
+	autoSetupRemote = true
+[init]
+	defaultBranch = main
