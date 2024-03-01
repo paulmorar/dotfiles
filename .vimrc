@@ -16,12 +16,7 @@ endif
 call plug#begin('~/.vim/plugged')
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
-Plug 'paulmorar/ayu-vim'
 call plug#end()
-
-set termguicolors
-let ayucolor="dark"
-colorscheme ayu
 
 let mapleader = " "
 nnoremap <leader>pv :Vex<CR>
