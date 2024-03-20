@@ -92,6 +92,9 @@ plugins=(
     node
     npm
     nvm
+    helm
+    kubectl
+    terraform
     zsh-autosuggestions
     zsh-syntax-highlighting
     ohmyzsh-full-autoupdate
